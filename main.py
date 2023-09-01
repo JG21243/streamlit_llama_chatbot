@@ -1,5 +1,6 @@
 import streamlit as st
-import pypdf
+import pypdf2
+import PyPDF2
 from llama_index import VectorStoreIndex, ServiceContext, Document
 from llama_index.llms import OpenAI
 import openai
