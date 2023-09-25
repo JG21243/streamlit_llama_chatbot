@@ -4,4 +4,4 @@ llama-index
 nltk
 pyPDF
 assemblyai
-
+langchain
