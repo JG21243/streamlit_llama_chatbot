@@ -3,4 +3,5 @@ openai
 llama-index
 nltk
 pyPDF
+assemblyai
 
